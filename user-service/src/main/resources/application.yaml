@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: user-service
+    username: user
+    password: S3cret
+    url: jdbc:postgresql://localhost:5432/user-service
+    driver-class-name: org.postgresql.Driver
